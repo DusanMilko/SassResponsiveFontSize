@@ -1,4 +1,4 @@
-ResponsiveFontSize
+Responsive Font Size
 ==================
 
 Responsive Font Size using Sass, screen widths, automatic media queries
