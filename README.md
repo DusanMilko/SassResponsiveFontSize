@@ -45,6 +45,6 @@ In any class use:
 ### Browser Support
 
 ---
-> Works with browsers that support media queries. Basically everything except ie6,7,8. You can use a polyfill or shim to make media queries work in ie8.
+> Works with browsers that support media queries. Basically everything except ie6,7,8. You can use respond.js to make media queries work in ie8.
 
 ---
