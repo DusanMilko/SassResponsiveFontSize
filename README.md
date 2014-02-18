@@ -1,9 +1,11 @@
 Responsive Font Size
 ==================
 
-Responsive Font Size using Sass, screen widths, automatic media queries
+Responsive Font Size Sass plugin using screen widths and automatic media querie generation
 
 ### Install
+
+Install Sass, required for this plugin
 
 Import the scss file into your main scss and add location of the file example: libs or partials
 
