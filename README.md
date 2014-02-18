@@ -1,4 +1,4 @@
-Responsive Font Size
+Sass Responsive Font Size
 ==================
 
 Responsive Font Size Sass plugin using screen widths and automatic media querie generation
