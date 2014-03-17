@@ -27,7 +27,7 @@ $xlarge-screen: 1440px; // Large Desktop
 
 In any class use:
 
-> The font in the example goes from 12px on mobile devices to 15 right before it hits tablet, then on tablet uses 12 and goes up to 20 for desktop t a rate of 0.8em( every 0.8 ems its adjusts )
+> The font in the example goes from 12px on mobile devices to 15 right before it hits tablet, then on tablet uses 12 and goes up to 20 for desktop at a rate of 0.8em( every 0.8 ems its adjusts )
 
 ```
 @include responsive-font-size (
